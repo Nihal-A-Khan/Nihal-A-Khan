@@ -1,4 +1,4 @@
-<h1 align="left">Here is a glimpse of who I am and what I can contribute to the team! 🚀💻🖱️</h1>
+<h1 align="left">Here's who I am and what I can contribute to the team! 🚀💻🖱️</h1>
 
 ###
 
