@@ -1,4 +1,4 @@
-<h1 align="left">Here's who I am and what I can contribute to the team! 🚀💻🖱️</h1>
+<h1 align="left">Here is a glimpse of who I am and what I can contribute to the team! 🚀💻🖱️</h1>
 
 ###
 
@@ -46,10 +46,8 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img height="183" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"  />
 </div>
 
 ###
