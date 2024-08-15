@@ -2,8 +2,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Nihal-A-Khan/Nihal-A-Khan/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="left">
