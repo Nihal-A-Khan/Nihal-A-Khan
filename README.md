@@ -42,7 +42,7 @@
 
 ###
 
-<h2 align="left">👋 Hi, I'm Nihal Khan, a passionate senior Computer Science student at Toronto Metropolitan University.<br><br>👀 I'm eager to dive into new programming languages, excel in coding competitions, and collaborate on innovative projects that push boundaries.<br><br>🌱 Currently, I'm focused on expanding my knowledge in AI, Machine Learning and Data Science.<br><br>📫 Feel free to reach out to me via email at nihalamedkhan@gmail.com or connect with me on LinkedIn: https://linkedin.com/in/khan-nihal</h2>
+<h2 align="left">👋 Hi, I'm Nihal Khan, a passionate senior Computer Science student at Toronto Metropolitan University.<br><br>👀 I'm eager to dive into new programming languages, excel in coding competitions, and collaborate on innovative projects that push boundaries.<br><br>🌱 Currently, I'm focused on expanding my knowledge in AI, Machine Learning and Data Science.<br><br>📫 Feel free to reach out to me via email at nihalamedkhan@gmail.com and connect with me on LinkedIn: https://linkedin.com/in/khan-nihal</h2>
 
 ###
 
