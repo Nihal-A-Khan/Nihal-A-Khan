@@ -42,7 +42,23 @@
 
 ###
 
-<h2 align="left">👋 Hi, I'm Nihal Khan, a passionate senior Computer Science student at Toronto Metropolitan University.<br><br>👀 I'm eager to dive into new programming languages, excel in coding competitions, and collaborate on innovative projects that push boundaries.<br><br>🌱 Currently, I'm focused on expanding my knowledge in AI, Machine Learning and Data Science.<br><br>📫 Feel free to reach out to me via email at nihalamedkhan@gmail.com and connect with me on LinkedIn: https://linkedin.com/in/khan-nihal</h2>
+<h2 align="left">👋 Hi, I'm Nihal Khan — a recent Computer Science graduate from Toronto Metropolitan University.
+
+💻 I’m passionate about software development, AI/ML, mobile applications, and building impactful technology that solves real-world problems.
+
+🚀 I enjoy learning new technologies, collaborating on ambitious projects, and continuously improving as an engineer.
+
+🌱 Currently exploring:
+
+Artificial Intelligence & Machine Learning
+Full-Stack Development
+Cloud & Scalable Systems
+Data Science
+
+🔍 Actively seeking new graduate and software engineering opportunities.
+
+📫 Reach me at: nihalamedkhan@gmail.com
+🔗 LinkedIn: https://linkedin.com/in/khan-nihal</h2>
 
 ###
 
